@@ -1,0 +1,6 @@
+@import url("assets/css/devresume.css") print;
+@media print {  
+   .col-print-12{
+       width:100% !important;
+   }
+}
